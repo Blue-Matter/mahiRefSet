@@ -1,7 +1,7 @@
 Package: mahiRefSet
 Type: Package
 Title: The Reference Set Operating Models for mahiMSE
-Version: 0.3.1
+Version: 0.3.2
 Authors@R: c(
     person(
       "Tom", "Carruthers",
@@ -9,7 +9,7 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: OpenMSE operating model objects for running MSE simulations for mahi. 
+Description: Reference set OpenMSE operating model objects for running MSE simulations for Atlantic Dolphinfish. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
